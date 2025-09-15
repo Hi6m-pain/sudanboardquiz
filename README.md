@@ -1,6 +1,7 @@
 # sudanboardquiz
 
 Privacy Policy  (Sudan Board Quiz witch will refer to as SDQ)
+
 Last Updated: [15-9-2025]
 
 Welcome!

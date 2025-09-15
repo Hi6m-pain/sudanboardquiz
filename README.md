@@ -1,18 +1,15 @@
 # sudanboardquiz
-Privacy Policy for Sudan Board Quiz (Medical MCQs)
-Last Updated: [Date]
 
-Owner: Mohamed Magdi
-
-App Name: Sudan Board Quiz
+Privacy Policy  (Sudan Board Quiz witch will refer to as SDQ)
+Last Updated: [15-9-2025]
 
 Welcome!
 
-This Privacy Policy describes how the "Sudan Board Quiz" app (owned by Mohamed Magdi) collects, uses, and protects your personal information. By using this app, you agree to the practices described in this policy.
+This Privacy Policy describes how the SDQ  collects, uses, and protects your personal information. By using this app, you agree to the practices described in this policy.
 
 1. Information We Collect
 
-To create an account and access the app's medical MCQs, we require you to provide the following information during sign-up:
+To create an account and access the SDQ medical MCQs, we require you to provide the following information during sign-up:
 
 Personal Identifiers: Your full name.
 
@@ -66,6 +63,6 @@ We may update this privacy policy from time to time. We will notify you of any c
 
 If you have any questions about this Privacy Policy, the practices of this app, or your dealings with this app, please contact us at:
 
-Email: [Your Email Address Here]
+Email: [pchumanx@gmail.com]
 
 Owner: Mohamed Magdi
